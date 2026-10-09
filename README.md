@@ -24,4 +24,4 @@ Most recently Computational Biologist III at OHSU's Cancer Early Detection Advan
 - Goldman EA, Sterner KN. Environment, epigenetics and the pace of human aging. *Annual Review of Anthropology* (2023)
 - Goldman EA, Spellman PT, Agarwal A. Defining clonal hematopoiesis of indeterminate potential. *Cold Spring Harbor Molecular Case Studies* (2023)
 
-[Website](https://elle-goldman.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=ShWqcxIAAAAJ) · [ORCID](https://orcid.org/0000-0003-1562-0010) · egoldman@uoregon.edu
+[Website](https://elle-goldman.github.io/) · [ORCID](https://orcid.org/0000-0003-1562-0010) · egoldman@uoregon.edu
